@@ -1,1 +1,6 @@
 person_id,patient_id,year_month,payer,plan,data_source,payer_attributed_provider,payer_attributed_provider_practice,payer_attributed_provider_organization,payer_attributed_provider_lob,custom_attributed_provider,custom_attributed_provider_practice,custom_attributed_provider_organization,custom_attributed_provider_lob
+P001,207473,2023-08,"Mcclain, Miller and Henderson",Basic Plan,Synthetic,Sabrina Austin,Saunders LLC,Jones-Hensley,Self-Pay,Paul Lewis,"Wilson, Jordan and Campbell",Berry-Mckinney,Medicare
+P018,993085,2022-06,Ramirez Group,Gold Plan,Synthetic,Paul Lewis,"Wilson, Jordan and Campbell",Murphy-Smith,Medicaid,Sergio Knight,Stanley-Tucker,"Jordan, Anderson and Patel",Commercial
+P016,391773,2024-02,King-Miller,Gold Plan,Synthetic,Ellen Morgan,"Nguyen, Pugh and Carlson",Graham Group,Self-Pay,Charles Schultz,Stanley-Tucker,Atkins PLC,Self-Pay
+P002,581741,2024-04,Dudley Group,Silver Plan,Synthetic,Sabrina Austin,Saunders LLC,Berry-Mckinney,Medicaid,Glen Wood,Perry-Lewis,Jones-Hensley,Medicaid
+P009,172132,2022-06,Mitchell-Kim,Basic Plan,Synthetic,Debra White,Craig LLC,Berry-Mckinney,Medicare,Sergio Knight,"Wilson, Jordan and Campbell",Atkins PLC,Medicaid
